@@ -1,6 +1,6 @@
 # Screenshot
 
-A barebones alternative to Windows Snip & Sketch.
+A barebones alternative to Windows Snip & Sketch. Press Control + ~ to activate. Press escape after activation to quit. Because this program was intended to be run in the background there's no user interface outside of selecting which part of the print screen you want to snip.
 
 ## Building
 
